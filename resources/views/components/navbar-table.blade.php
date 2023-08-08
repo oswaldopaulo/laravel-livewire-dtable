@@ -15,7 +15,7 @@
 
             </ul>
             <form class="d-flex">
-                <input wire:model.lazy="search" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <input wire:model.lazy="search" class="form-control me-2" type="search" placeholder="Search">
                 <button class="btn btn-outline-success" type="submit"><i class="fas fa-search"></i></button>
             </form>
         </div>
